@@ -38,9 +38,6 @@
               },
               "C:\\Users\\elisa\\source\\repos\\Journey\\src\\Journey.Communication\\Journey.Communication.csproj": {
                 "projectPath": "C:\\Users\\elisa\\source\\repos\\Journey\\src\\Journey.Communication\\Journey.Communication.csproj"
-              },
-              "C:\\Users\\elisa\\source\\repos\\Journey\\src\\Journey.Exception\\Journey.Exception.csproj": {
-                "projectPath": "C:\\Users\\elisa\\source\\repos\\Journey\\src\\Journey.Exception\\Journey.Exception.csproj"
               }
             }
           }
@@ -338,6 +335,20 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.5.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

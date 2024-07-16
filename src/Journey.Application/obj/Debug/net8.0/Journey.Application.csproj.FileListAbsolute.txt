@@ -1,4 +1,5 @@
 C:\Users\elisa\source\repos\Journey\src\Journey.Application\bin\Debug\net8.0\Journey.Application.deps.json
+C:\Users\elisa\source\repos\Journey\src\Journey.Application\bin\Debug\net8.0\Journey.Application.runtimeconfig.json
 C:\Users\elisa\source\repos\Journey\src\Journey.Application\bin\Debug\net8.0\Journey.Application.dll
 C:\Users\elisa\source\repos\Journey\src\Journey.Application\bin\Debug\net8.0\Journey.Application.pdb
 C:\Users\elisa\source\repos\Journey\src\Journey.Application\bin\Debug\net8.0\Journey.Communication.dll
@@ -17,4 +18,5 @@ C:\Users\elisa\source\repos\Journey\src\Journey.Application\obj\Debug\net8.0\Jou
 C:\Users\elisa\source\repos\Journey\src\Journey.Application\obj\Debug\net8.0\Journey.Application.dll
 C:\Users\elisa\source\repos\Journey\src\Journey.Application\obj\Debug\net8.0\refint\Journey.Application.dll
 C:\Users\elisa\source\repos\Journey\src\Journey.Application\obj\Debug\net8.0\Journey.Application.pdb
+C:\Users\elisa\source\repos\Journey\src\Journey.Application\obj\Debug\net8.0\Journey.Application.genruntimeconfig.cache
 C:\Users\elisa\source\repos\Journey\src\Journey.Application\obj\Debug\net8.0\ref\Journey.Application.dll
